@@ -1,7 +1,11 @@
 :root {
     --cor-de-fundo: #EBECEE;
     --branco: #FFFFFF;
+
     }
+    .lista-menu {
+        display: none;
+        }
     body {
         background-color: var(--cor-de-fundo);
         }
