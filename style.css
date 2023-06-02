@@ -1,5 +1,10 @@
-@import url("styles/header.css"); 
+
 :root {
     --cor-de-fundo: #6790e2;
+
     --branco: #7b68e2;
-    }
+    
+}
+h1{
+    color: blue;
+}
