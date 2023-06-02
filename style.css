@@ -1,12 +1,16 @@
 
-:root {
-    --cor-de-fundo: #6790e2;
-
-    --branco: #7b68e2;
+root {
+    --cor-de-fundo: #f5e8d8;
+    }
+    body {
+        background-color: var(--cor-de-fundo);}
+    .img1 {
+        width: 20%;
+        display:flex;
+    }
     
-}
-h1{
-    text-align: center;
-    font-size: 50px;
-    color: blue;
-}
+    h1{
+        text-align: center;
+        font-size: 50px;
+        color: rgb(78, 58, 14);
+    }
