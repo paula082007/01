@@ -3,10 +3,3 @@
     --cor-de-fundo: #6790e2;
     --branco: #7b68e2;
     }
-    body {
-        background-color: var(--cor-de-fundo);
-        }
-
-        h1 {
-            background-color: white;
-            }
