@@ -10,4 +10,5 @@ root {
     }
     .img2{
         width: 10%;
+        display: flex;
     }
