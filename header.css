@@ -7,4 +7,6 @@
 
 .container__imagem{
     width: 20px;
+    height: 24px;
+    background-position: 24px;
 }
