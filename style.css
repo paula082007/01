@@ -2,3 +2,7 @@
 root {
     --cor-de-fundo: #7fcaec;
     }
+h1{
+    text-align: center;
+    font-size: 70px;
+}
