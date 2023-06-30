@@ -6,3 +6,7 @@ h1{
     text-align: center;
     font-size: 70px;
 }
+.img01{
+    width: 30%;
+    display: flex;
+}
